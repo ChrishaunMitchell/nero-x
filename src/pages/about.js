@@ -5,7 +5,7 @@ return (
 	<div>
 	<h1>
 		Nero-X is a money exchange app that uses crypto
-		Go global with it
+		Go global with it!
 	</h1>
 	</div>
 );
