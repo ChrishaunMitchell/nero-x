@@ -9,8 +9,8 @@ import RootNavigator from "./src/Navigator/RootNavigator";
 
 export default function App() {
   return (
-    <NavigationContainer>
+    <View>
       <Welcome/>
-    </NavigationContainer>
+    </View>
   );
 }
